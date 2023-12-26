@@ -45,11 +45,11 @@ Manages the game logic and interactivity. This includes handling player moves, c
 <h4>How to Run:</h4>
 
 Open the https://prrranay.github.io/tic-tac-toe/ in a web browser.
-<hr>
+<!-- <hr>
 <h4>Future Enhancements:</h4>
 <ol>
 <li>Implementing a computer opponent for single-player mode.</li>
 <li>Adding animations for a more visually engaging experience.</li>
 <li>Customization options for players, such as choosing their symbols or names.</li>
 <li>This Tic Tac Toe project serves as a great introduction to web development, providing hands-on experience with fundamental web technologies and basic game development concepts.</li>
-</ol>
+</ol> -->
