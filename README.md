@@ -1,5 +1,5 @@
 # tic-tac-toe
-# tic-tac-toe
+
 <h2>Tic Tac Toe Game Project</h2>
 
 <h4>Overview:</h4>
@@ -13,7 +13,7 @@ The game is designed to be responsive, ensuring an optimal viewing and playing e
 
 <li><b>Interactive Grid:</b>
 
-    The game board is represented by a 3x3 grid of cells. Players can click on a cell to place their symbol, alternating turns between X and O.</li>
+The game board is represented by a 3x3 grid of cells. Players can click on a cell to place their symbol, alternating turns between X and O.</li>
 
 <li><b>Winning Logic:</b>
 
